@@ -343,7 +343,7 @@ If you encounter issues:
 1. Check the stderr output for warnings
 2. Verify input file formats (VCF and FASTA)
 3. Test with a small subset first
-4. [Open an issue](https://github.com/yourusername/kasp-extractor/issues) with:
+4. [Open an issue](https://github.com/SudhakarBasu/Kasp_Extractor/issues) with:
    - Command used
    - Error message
    - VCF and FASTA headers (first few lines)
@@ -352,8 +352,8 @@ If you encounter issues:
 
 Contributions are welcome! Here's how you can help:
 
-1. **Report bugs**: [Open an issue](https://github.com/yourusername/kasp-extractor/issues)
-2. **Suggest features**: [Start a discussion](https://github.com/yourusername/kasp-extractor/discussions)
+1. **Report bugs**: [Open an issue](https://github.com/SudhakarBasu/Kasp_Extractor/issues)
+2. **Suggest features**: [Start a discussion](https://github.com/SudhakarBasu/Kasp_Extractor/discussions)
 3. **Submit pull requests**: Fork, create a branch, make changes, submit PR
 
 ### Development Setup
@@ -378,27 +378,6 @@ python -m pytest tests/
 - Include type hints where appropriate
 - Update README for new features
 
-## 📚 Citation
-
-If you use KASP Extractor in your research, please cite:
-
-```
-KASP Extractor: A Batch Processing Tool for KASP Primer Design
-[Your Name], [Year]
-GitHub: https://github.com/yourusername/kasp-extractor
-```
-
-Or in BibTeX:
-
-```bibtex
-@software{kasp_extractor,
-  author = {Your Name},
-  title = {KASP Extractor: A Batch Processing Tool for KASP Primer Design},
-  year = {2026},
-  url = {https://github.com/yourusername/kasp-extractor},
-  version = {1.0}
-}
-```
 
 ## 📄 License
 
@@ -428,18 +407,13 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## 🔗 Related Projects
-
-- [KASP Primer Design Tools](https://github.com/topic/kasp)
-- [VCF Processing Utilities](https://github.com/topic/vcf)
-- [Variant Calling Pipeline](https://github.com/yourusername/variant-calling-pipeline)
 
 ## 📞 Contact
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Website**: https://yourwebsite.com
+- **Author**: Sudhakar Reddy Basu
+- **Email**: basusudhakarreddy@gmail.com
+- **GitHub**: [@SudhakarBasu](https://github.com/SudhakarBasu)
+- **Website**: https://sudhakarreddy.com
 
 ## 🌟 Acknowledgments
 
@@ -455,6 +429,5 @@ SOFTWARE.
 
 Made with ❤️ for the Bioinformatics Community
 
-[Report Bug](https://github.com/yourusername/kasp-extractor/issues) · [Request Feature](https://github.com/yourusername/kasp-extractor/issues) · [Documentation](https://github.com/yourusername/kasp-extractor/wiki)
 
 </div>
