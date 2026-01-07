@@ -1,0 +1,13 @@
+python kasp_extractor_batch.py -v test.vcf -r Oryza_sativa.chr1.fa -c 1 -p 41169 -l 150 -o output_snp.txt
+```
+python kasp_extractor_batch.py -v test.vcf -r Oryza_sativa.chr1.fa -c 1 -l 150 -o output_chr.txt
+## Parameters:
+- `-v, --vcf`: Your VCF file
+- `-r, --reference`: Reference genome FASTA file
+- `-c, --chrom`: Chromosome name (e.g., chr1, Chr1, 1)
+- `-p, --position`: Variant position
+- `-l, --length`: Flanking sequence length (default: 100bp)
+- `-o, --output`: Output file (optional, defaults to stdout)
+
+## Example Output:
+```
